@@ -1,5 +1,13 @@
 body.container {
   margin: 0px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 22.68px;
+}
+a {
+  color: #0645ad;
 }
 
 .main-page {
@@ -75,6 +83,21 @@ body.container {
 
 .violet-theme h2 {
   background-color: #ddcef2;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.sidebar li {
+  line-height: 1.125em;
+  font-size: 0.75em;
+  padding: 0.25em 0;
+}
+.sidebar h2 {
+  font-size: 0.75em;
+  text-decoration: underline;
 }
 
 img.logo {
