@@ -1,3 +1,45 @@
 img.logo {
   height: 160px;
 }
+
+.green-theme {
+  background-color: #f5fffa;
+  border: 1px solid #cef2e0;
+}
+
+.blue-theme {
+  background-color: #f5faff;
+  border: 1px solid #cedff2;
+}
+
+.violet-theme {
+  background-color: #faf5ff;
+  border: 1px solid #ddcef2;
+}
+
+.grey-theme {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+}
+
+.blue-theme h2 {
+  background-color: #cedff2;
+}
+
+.green-theme h2 {
+  background-color: #cef2e0;
+}
+
+.violet-theme h2 {
+  background-color: #ddcef2;
+}
+
+.sidebar {
+  float: left;
+  width: 10em;
+}
+
+.content {
+  float: right;
+  max-width: 80%;
+}
