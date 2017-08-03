@@ -1,15 +1,39 @@
-img.logo {
-  height: 160px;
+body.container {
+  margin: 0px;
+}
+
+.main-page {
+  padding: 1.25em 1.5em 1.5em 1.5em;
+}
+
+.sidebar {
+  float: left;
+  width: 10em;
+}
+
+.content {
+  float: right;
+  max-width: 80%;
 }
 
 .green-theme {
   background-color: #f5fffa;
   border: 1px solid #cef2e0;
+  margin: 1px;
+}
+
+.green-theme.col-xs-7 {
+  width: 56%;
 }
 
 .blue-theme {
   background-color: #f5faff;
   border: 1px solid #cedff2;
+  margin: 1px;
+}
+
+.blue-theme.col-xs-5 {
+  width: 43%;
 }
 
 .violet-theme {
@@ -20,6 +44,25 @@ img.logo {
 .grey-theme {
   background-color: #f9f9f9;
   border: 1px solid #ddd;
+  margin: 1.2em 0 6px;
+  padding: 1em;
+  overflow: hidden;
+}
+
+.welcome-message {
+  float: left;
+  text-align: center;
+}
+
+.row.main-grid {
+  padding-left: auto;
+  padding-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.categories {
+  float: right;
 }
 
 .blue-theme h2 {
@@ -34,12 +77,6 @@ img.logo {
   background-color: #ddcef2;
 }
 
-.sidebar {
-  float: left;
-  width: 10em;
-}
-
-.content {
-  float: right;
-  max-width: 80%;
+img.logo {
+  height: 160px;
 }
