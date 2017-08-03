@@ -28,6 +28,7 @@ a {
   background-color: #f5fffa;
   border: 1px solid #cef2e0;
   margin: 1px;
+  padding: 3px 6px;;
 }
 
 .green-theme.col-xs-7 {
@@ -38,6 +39,7 @@ a {
   background-color: #f5faff;
   border: 1px solid #cedff2;
   margin: 1px;
+  padding: 3px 6px;;
 }
 
 .blue-theme.col-xs-5 {
@@ -47,6 +49,8 @@ a {
 .violet-theme {
   background-color: #faf5ff;
   border: 1px solid #ddcef2;
+  overflow: hidden;
+  padding: 3px 6px;
 }
 
 .grey-theme {
@@ -73,16 +77,26 @@ a {
   float: right;
 }
 
+.main-page h2 {
+  font-size: 16.8px;
+  font-weight: bold;
+  padding: 0.2em 0.4em;
+  margin-top: 3px;
+}
+
 .blue-theme h2 {
   background-color: #cedff2;
+  border: 1px solid #a3b0bf;
 }
 
 .green-theme h2 {
   background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
 }
 
 .violet-theme h2 {
   background-color: #ddcef2;
+  border: 1px solid #afa3bf;
 }
 
 .sidebar ul {
@@ -102,4 +116,21 @@ a {
 
 img.logo {
   height: 160px;
+}
+
+.violet-theme img {
+  display: block;
+  float: left;
+  height: 332px;
+  padding-right: 0.9em;
+  margin: 0 3px 3px;
+}
+
+.bottom h2 {
+  font-family: "Linux Libertine","Georgia","Times";
+  font-weight: normal;
+  font-size: 21px;
+  border-bottom: 1px solid rgb(162, 169, 177);
+  margin: 1em 0em 0em 0.25em;
+  padding: 0px;
 }
