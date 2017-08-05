@@ -27,6 +27,6 @@ _Contact Kelsey Langlois or Dan Nolette with questions, comments, or issues. Con
 
 ### License
 
-Copyright (c) 2017 **Kelsey Langlois Dan Nolette**
+Copyright (c) 2017 **Kelsey Langlois, Dan Nolette**
 
 *This software is licensed under the MIT license.*
