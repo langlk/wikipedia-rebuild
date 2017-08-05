@@ -1,6 +1,6 @@
 # Wikipedia Rebuild
 
-#### _Epicodus Project in HTML and CSS, August 3, 2017_
+#### _Epicodus Practice in HTML and CSS, August 3, 2017_
 
 #### By Kelsey Langlois and Dan Nolette
 
